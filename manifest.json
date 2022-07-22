@@ -1,11 +1,11 @@
 {
-  "name": "君哥聊編程",
-  "short_name": "君哥",
+  "name": "丁真学编程",
+  "short_name": "纯真",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#2196f3",
-  "description": "君哥聊編程主页",
-  "theme_color": "blue",
+  "background_color": "#AFEEEE",
+  "description": "丁真学编程主页",
+  "theme_color": "deepblue",
   "icons": [
     {
       "src": "./img/logo.png",
